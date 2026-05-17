@@ -22,7 +22,3 @@ Each lab contains a dedicated `security-analysis.md` file covering:
 - Best practices
 
 ---
-
-# Author
-
-Murillo H.
