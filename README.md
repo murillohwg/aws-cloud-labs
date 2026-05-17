@@ -1,3 +1,7 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud_Labs-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Focus-Cloud_Security-blue?style=for-the-badge)
+![Hands On](https://img.shields.io/badge/Type-Hands_On-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 # AWS Labs
 
 | Lab | Description | Topics |
