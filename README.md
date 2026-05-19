@@ -13,6 +13,7 @@
 | [aws vpc + ec2 web server lab](https://github.com/murillohwg/aws-vpc-ec2-webserver-lab) | Cloud networking and public web infrastructure | VPC, Subnets, Route Tables, EC2 |
 | [aws ebs lab](https://github.com/murillohwg/aws-ebs-lab) | EBS volume management, filesystem configuration and data restoration on EC2 instances | AWS Systems Manager, Backup & Restore |
 | [aws rds lab](https://github.com/murillohwg/aws-rds-multi-az-lab) | EC2, EBS, RDS, VPC networking, security groups, high availability, cloud infrastructure architecture | RDS, multi AZ, security groups |
+| [aws ami auto scaling lab](https://github.com/murillohwg/aws-ami-auto-scaling-lab) | AMI, Auto Scaling and LoadBalancer management | AMI, Auto Scaling, elastic-load-balancer, CloudWatch |
 ---
 
 # Security-Focused Documentation
