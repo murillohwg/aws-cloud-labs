@@ -6,12 +6,12 @@
 
 | Lab | Description | Topics |
 |---|---|---|
-| [AWS IAM Lab](https://github.com/murillohwg/aws-iam-lab) | Identity and access management fundamentals | IAM, MFA, Policies, Least Privilege |
-| [AWS EC2 Lab](https://github.com/murillohwg/aws-ec2-lab) | EC2 instance provisioning and management | EC2, Security Groups, SSH |
-| [AWS Lambda Lab](https://github.com/murillohwg/aws-lambda-lab) | Serverless computing with AWS Lambda | Lambda, IAM Roles, CloudWatch |
-| [AWS Elastic Beanstalk Lab](https://github.com/murillohwg/aws-elastic-beanstalk-lab) | Managed application deployment | Elastic Beanstalk, EC2, Auto Scaling |
-| [AWS VPC + EC2 Web Server Lab](https://github.com/murillohwg/aws-vpc-ec2-webserver-lab) | Cloud networking and public web infrastructure | VPC, Subnets, Route Tables, EC2 |
-
+| [aws iam lab](https://github.com/murillohwg/aws-iam-lab) | Identity and access management fundamentals | IAM, MFA, Policies, Least Privilege |
+| [aws ec2 lab](https://github.com/murillohwg/aws-ec2-lab) | EC2 instance provisioning and management | EC2, Security Groups, SSH |
+| [aws lambd lab](https://github.com/murillohwg/aws-lambda-lab) | Serverless computing with AWS Lambda | Lambda, IAM Roles, CloudWatch |
+| [aws elastic beanstalk labb](https://github.com/murillohwg/aws-elastic-beanstalk-lab) | Managed application deployment | Elastic Beanstalk, EC2, Auto Scaling |
+| [aws vpc + ec2 web server lab](https://github.com/murillohwg/aws-vpc-ec2-webserver-lab) | Cloud networking and public web infrastructure | VPC, Subnets, Route Tables, EC2 |
+| [aws ebs lab](https://github.com/murillohwg/aws-ebs-lab) | Amazon EBS volume management, filesystem configuration, snapshot creation, and data restoration on EC2 instances | 
 ---
 
 # Security-Focused Documentation
