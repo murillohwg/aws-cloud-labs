@@ -11,7 +11,7 @@
 | [aws lambd lab](https://github.com/murillohwg/aws-lambda-lab) | Serverless computing with AWS Lambda | Lambda, IAM Roles, CloudWatch |
 | [aws elastic beanstalk labb](https://github.com/murillohwg/aws-elastic-beanstalk-lab) | Managed application deployment | Elastic Beanstalk, EC2, Auto Scaling |
 | [aws vpc + ec2 web server lab](https://github.com/murillohwg/aws-vpc-ec2-webserver-lab) | Cloud networking and public web infrastructure | VPC, Subnets, Route Tables, EC2 |
-| [aws ebs lab](https://github.com/murillohwg/aws-ebs-lab) | Amazon EBS volume management, filesystem configuration, snapshot creation, and data restoration on EC2 instances | 
+| [aws ebs lab](https://github.com/murillohwg/aws-ebs-lab) | EBS volume management, filesystem configuration and data restoration on EC2 instances | AWS Systems Manager, Backup & Restore |
 ---
 
 # Security-Focused Documentation
